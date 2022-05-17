@@ -22,7 +22,7 @@
   </ItemGroup>
 
     <ItemGroup>
-    <None Include="..\..\..\LICENSE" Link="LICENSE">
+    <None Include="..\..\LICENSE" Link="LICENSE">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </None>
     <None Include="..\..\..\bin\notice\OSPO\*.txt">
